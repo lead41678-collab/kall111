@@ -1,0 +1,15 @@
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\bin\Release\net10.0-windows\StagePlaylist.exe
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\bin\Release\net10.0-windows\StagePlaylist.deps.json
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\bin\Release\net10.0-windows\StagePlaylist.runtimeconfig.json
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\bin\Release\net10.0-windows\StagePlaylist.dll
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\bin\Release\net10.0-windows\StagePlaylist.pdb
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\obj\Release\net10.0-windows\StagePlaylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\obj\Release\net10.0-windows\StagePlaylist.AssemblyInfoInputs.cache
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\obj\Release\net10.0-windows\StagePlaylist.AssemblyInfo.cs
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\obj\Release\net10.0-windows\StagePlaylist.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\obj\Release\net10.0-windows\StagePlaylist.dll
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\obj\Release\net10.0-windows\refint\StagePlaylist.dll
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\obj\Release\net10.0-windows\StagePlaylist.pdb
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\obj\Release\net10.0-windows\StagePlaylist.genruntimeconfig.cache
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\obj\Release\net10.0-windows\ref\StagePlaylist.dll
+C:\Users\qwerty\Documents\random code\Плейлист мероприятия\obj\Release\net10.0-windows\StagePla.C47319DC.Up2Date
